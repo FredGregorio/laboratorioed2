@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[]))
+// Fazer um Hello World
+
+int main(int argc, char *argv[])
 {
     printf("Hello World");
 
