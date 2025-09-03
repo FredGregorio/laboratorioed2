@@ -3,7 +3,7 @@
 
 
 
-int main( int argc, vhar *argv[]) {
+int main(int argc, char *argv[]) {
 
 
     

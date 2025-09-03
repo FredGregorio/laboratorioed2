@@ -1,11 +1,8 @@
 #include <stdio.h>
-#include <stdio.h>
 
-//imprimir Hello World
-
-int main(int argc, vhar *argv[]){
-
-rintf("Hello World");
+int main(int argc, char *argv[]))
+{
+    printf("Hello World");
 
     return 0;
 }

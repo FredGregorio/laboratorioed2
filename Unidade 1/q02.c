@@ -1,11 +1,16 @@
 #include <stdio.h>
 #include <stdio.h>
 
-//  fazer uma soma de 2 numeros e imprimirs
+//  fazer uma soma de 2 numeros e imprimir
 
-int main(int argc, vhar *argv[]){
+int main(int argc, char *argv[]){
 
-rintf("Hello World");
+   
+
+
+
+
+
 
     return 0;
 }
