@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h> 
 
-// Fazer uma soma de 2 números e imprimir
+// 02) Fazer uma soma de 2 números e imprimir
 
 int main(int argc, char *argv[]) {
   

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-// Crie um programa que encontre o menor elemento de um vetor de 10 números inteiros.
+// 07) Crie um programa que encontre o menor elemento de um vetor de 10 números inteiros.
 
 
 int menorElemento(int vetor[], int tamanho) {

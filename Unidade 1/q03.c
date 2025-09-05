@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Desenvolva um programa que calcule a média de um vetor de 10 números inteiros.
+// 03) Desenvolva um programa que calcule a média de um vetor de 10 números inteiros.
 
 int main(int argc, char *argv[]) {
 

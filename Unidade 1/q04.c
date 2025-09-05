@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Crie um programa que encontre o maior elemento de um vetor de 10 números inteiros.
+// 04) Crie um programa que encontre o maior elemento de um vetor de 10 números inteiros
 
 int maiorElemento (int vetor[], int tamanho) {
 
