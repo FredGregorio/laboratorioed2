@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // Para usar a função atoi
+#include <stdlib.h> 
 
 // Fazer uma soma de 2 números e imprimir
 
