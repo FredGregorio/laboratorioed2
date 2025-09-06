@@ -32,7 +32,9 @@ int main(int argc, char *argv[]) {
     tamanhoV = argc - 1;
 
     for (int i = 0; i < tamanhoV; i++) {
+      
         vetor[i] = atoi(argv[i + 1]);
+        
     }
 
    
