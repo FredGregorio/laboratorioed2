@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int fib (int);
+
 int fib (int n) {
     if(n < 0){
         return -1;
@@ -10,8 +12,6 @@ int fib (int n) {
     return fib(n-1) + fib(n-2);
 
 }
-
-
 
 int main () {
     
