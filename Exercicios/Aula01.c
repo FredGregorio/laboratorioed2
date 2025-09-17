@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int fib (int);
 
@@ -13,11 +14,12 @@ int fib (int n) {
 
 }
 
-int main () {
+int main (int argc, char *argv[]) {
+    
     
     
     int n = 4;
-    int r = fib(n);
+    int r = fib(atoi(argv[1]));
 
     printf("Seu valor é: %d", r);
     
